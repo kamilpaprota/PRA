@@ -2,9 +2,8 @@ package third.quartz;
 import java.util.Date;
 import org.quartz.*;
 
-
 @PersistJobDataAfterExecution
-public class JobWithMap  implements org.quartz.Job
+public class Czas implements org.quartz.Job
 {
     public int minutes_to_end;
     public void execute(JobExecutionContext context) throws JobExecutionException
@@ -21,13 +20,13 @@ public class JobWithMap  implements org.quartz.Job
 
             if(this.minutes_to_end != -1) {
                 if (przerwa) {
-                    System.out.println(this.minutes_to_end + " minut zostało do końca przerwy.");
+                    System.out.println(this.minutes_to_end + " minut do końca przerwy.");
                 } else {
-                    System.out.println(this.minutes_to_end + " minut zostało do końca zajęć.");
+                    System.out.println(this.minutes_to_end + " minut do końca zajęć.");
                 }
             }
             else
-                System.out.println("Nie ma aktualnie zajęć.");
+                System.out.println("Obecnie nie ma zajęć.");
         }
     }
 
