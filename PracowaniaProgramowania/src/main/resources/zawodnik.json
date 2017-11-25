@@ -1,0 +1,103 @@
+{
+  "refId" : 1,
+  "id" : 0,
+  "imię" : "Zinedine",
+  "nazwisko" : "Zidane",
+  "pozycja" : "Trener",
+  "klub" : {
+    "id" : 0,
+    "nazwa" : "Real Madryt"
+  },
+
+  "zawodnicy" : [ {
+    "refId" : 2,
+    "id" : 0,
+    "imię" : "Cristiano",
+    "nazwisko" : "Ronaldo",
+    "pozycja" : "Środkowy napastnik",
+    "gole" : 1,
+    "klub" : {
+      "id" : 0,
+      "nazwa" : "Real Madryt"
+    },
+    "statystyki" : {
+      "id" : 0,
+      "wzrost" : 185,
+      "waga" : 80,
+      "wiek" : 32
+    },
+    "zawodnicy" : [ ]
+  }, {
+    "refId" : 3,
+    "id" : 0,
+    "imię" : "Karim",
+    "nazwisko" : "Benzema",
+    "pozycja" : "Środkowy napastnik",
+    "gole" : 1,
+    "klub" : {
+      "id" : 0,
+      "nazwa" : "Real Madryt"
+    },
+    "statystyki" : {
+      "id" : 0,
+      "wzrost" : 187,
+      "waga" : 79,
+      "wiek" : 30
+    },
+    "zawodnicy" : [ ]
+  }, {
+    "refId" : 4,
+    "id" : 0,
+    "imię" : "Gareth",
+    "nazwisko" : "Bale",
+    "pozycja" : "Prawy napastnik",
+    "gole" : 2,
+    "klub" : {
+      "id" : 0,
+      "nazwa" : "Real Madryt"
+    },
+    "statystyki" : {
+      "id" : 0,
+      "wzrost" : 183,
+      "waga" : 74,
+      "wiek" : 28
+    },
+    "zawodnicy" : [ ]
+  }, {
+    "refId" : 5,
+    "id" : 0,
+    "imię" : "Marco",
+    "nazwisko" : "Asensio",
+    "pozycja" : "Lewy napastnik",
+    "gole" : 4,
+    "klub" : {
+      "id" : 0,
+      "nazwa" : "Real Madryt"
+    },
+    "statystyki" : {
+      "id" : 0,
+      "wzrost" : 180,
+      "waga" : 75,
+      "wiek" : 21
+    },
+    "zawodnicy" : [ ]
+  }, {
+    "refId" : 6,
+    "id" : 0,
+    "imię" : "Lucas",
+    "nazwisko" : "Vazquez",
+    "pozycja" : "Prawy napastnik",
+    "gole" : 1,
+    "klub" : {
+      "id" : 0,
+      "nazwa" : "Real Madryt"
+    },
+    "statystyki" : {
+      "id" : 0,
+      "wzrost" : 173,
+      "waga" : 70,
+      "wiek" : 26
+    },
+    "zawodnicy" : [ ]
+  } ]
+}

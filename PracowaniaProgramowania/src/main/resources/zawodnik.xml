@@ -1,0 +1,108 @@
+<Employee>
+    <refId>1</refId>
+    <id>0</id>
+    <imię>Zinedine</imię>
+    <nazwisko>Zidane</nazwisko>
+    <pozycja>Trener</pozycja>
+    <klub>
+        <id>0</id>
+        <nazwa>Real Madryt</nazwa>
+    </klub>
+    <zawodnicy>
+        <zawodnicy>
+            <refId>2</refId>
+            <id>0</id>
+            <imię>Cristiano</imię>
+            <nazwisko>Ronaldo</nazwisko>
+            <pozycja>Środkowy napastnik</pozycja>
+            <gole>1</gole>
+            <klub>
+                <id>0</id>
+                <nazwa>Real Madryt</nazwa>
+            </klub>
+            <statystyki>
+                <id>0</id>
+                <wzrost>185</wzrost>
+                <waga>80</waga>
+                <wiek>32</wiek>
+            </statystyki>
+            <zawodnicy/>
+        </zawodnicy>
+        <zawodnicy>
+            <refId>3</refId>
+            <id>0</id>
+            <imię>Karim</imię>
+            <nazwisko>Benzema</nazwisko>
+            <pozycja>Środkowy napastnik</pozycja>
+            <gole>1</gole>
+            <klub>
+                <id>0</id>
+                <nazwa>Real Madryt</nazwa>
+            </klub>
+            <statystyki>
+                <id>0</id>
+                <wzrost>187</wzrost>
+                <waga>79</waga>
+                <wiek>30</wiek>
+            </statystyki>
+            <zawodnicy/>
+        </zawodnicy>
+        <zawodnicy>
+            <refId>4</refId>
+            <id>0</id>
+            <imię>Gareth</imię>
+            <nazwisko>Bale</nazwisko>
+            <pozycja>Prawy napastnik</pozycja>
+            <gole>2</gole>
+            <klub>
+                <id>0</id>
+                <nazwa>Real Madryt</nazwa>
+            </klub>
+            <statystyki>
+                <id>0</id>
+                <wzrost>183</wzrost>
+                <waga>74</waga>
+                <wiek>28</wiek>
+            </statystyki>
+            <zawodnicy/>
+        </zawodnicy>
+        <zawodnicy>
+            <refId>5</refId>
+            <id>0</id>
+            <imię>Marco</imię>
+            <nazwisko>Asensio</nazwisko>
+            <pozycja>Lewy napastnik</pozycja>
+            <gole>4</gole>
+            <klub>
+                <id>0</id>
+                <nazwa>Real Madryt</nazwa>
+            </klub>
+            <statystyki>
+                <id>0</id>
+                <wzrost>180</wzrost>
+                <waga>75</waga>
+                <wiek>21</wiek>
+            </statystyki>
+            <zawodnicy/>
+        </zawodnicy>
+        <zawodnicy>
+            <refId>6</refId>
+            <id>0</id>
+            <imię>Lucas</imię>
+            <nazwisko>Vazquez</nazwisko>
+            <pozycja>Prawy napastnik</pozycja>
+            <gole>1</gole>
+            <klub>
+                <id>0</id>
+                <nazwa>Real Madryt</nazwa>
+            </klub>
+            <statystyki>
+                <id>0</id>
+                <wzrost>173</wzrost>
+                <waga>70</waga>
+                <wiek>26</wiek>
+            </statystyki>
+            <zawodnicy/>
+        </zawodnicy>
+    </zawodnicy>
+</Employee>
