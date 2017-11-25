@@ -1,0 +1,4 @@
+1.SELECT WOJTEK KTory jest pierwszy
+
+3.SELECT wojtek
+
